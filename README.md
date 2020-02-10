@@ -5,9 +5,9 @@ gives you a basic security camera with motion detection that synchronizes everyt
 
 needs:
 
-  motion
-  rsync
-  inotifywait
+    motion
+    rsync
+    inotifywait
   
   ssh key login to your server.
 
